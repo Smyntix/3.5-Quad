@@ -102,6 +102,12 @@ Examples:
 * Analog video
 * 3.5" Freestyle setup
 
+## Total Cost 
+
+* the total should come out to around 200-250€ depending on the brands you buy and the website you use.
+  
+  I've obversed that in the last period aliexpress prices have rose so much that some parts (for example the frame and the vtx) cost more on aliexpress
+  that on the local store i use, while arriving 2 weeks later, so i reccomend just buying from your local shop as the price difference is minimal.
 ---
 
 Feel free to fork, modify, or improve this build.
