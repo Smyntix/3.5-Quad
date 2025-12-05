@@ -144,4 +144,10 @@ You can find the **full CAD file** for the frame (along with renders and everyth
 
 Feel free to **modify**, **test**, or **improve** the design if you want to.
 
+---
 
+# Vtx Detail (work in progress)
+
+* the vtx PCB uses a RTC6705 chip that is widely used by vtx projects, so it's easier to program for.
+* while you can use any signal amp you want, i decide to opt for a 1W one, as in my opinion it offers the best Range/power draw/space (fits in a 20x20mm pcb but is still really powerful.
+* decided to opt for the OpenVTX firmware as a base, because it offers the best VTX-FC communication and telemetry exchange
